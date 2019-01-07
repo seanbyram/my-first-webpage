@@ -1,0 +1,37 @@
+h1 {
+  color: red;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+img.medium {
+  width: 250px;
+  height: 250px;
+}
+
+p {
+  color: #999eee;
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  font-weight: bolder;
+  line-height: 60px;
+}
+
+ol {
+  text-align: center;
+
+}
+
+img.center-img {
+  display: block;
+  text-align: center;
+}
