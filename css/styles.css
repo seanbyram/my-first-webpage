@@ -1,6 +1,12 @@
-h1 {
-  color: red;
+body {
+  background-color: grey;
+  color: blue;
 }
+h1 {
+  color: pink;
+  text-align: center;
+}
+
 h2 {
   font-style: italic;
   text-align: center;
@@ -33,5 +39,12 @@ ol {
 
 img.center-img {
   display: block;
-  text-align: center;
+  margin: 25px auto;
+  border: 20px solid black;
+}
+a:hover {
+  color: black;
+}
+img:hover {
+  border: 20px solid green;
 }
